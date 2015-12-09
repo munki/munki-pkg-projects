@@ -1,0 +1,5 @@
+.	40755	0/100
+./Library	41775	0/80
+./Library/Application Support	40775	0/80
+./Library/Application Support/Macromedia	40775	0/80
+./Library/Application Support/Macromedia/mms.cfg	100664	0/80	19	2842637255
