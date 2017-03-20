@@ -1,6 +1,6 @@
-#munkipkg projects
+# munkipkg projects
 
-##Introduction
+## Introduction
 
 These are projects intended for use with munki-pkg (https://github.com/munki/munki-pkg), a simple packaging tool for OS X.
 
